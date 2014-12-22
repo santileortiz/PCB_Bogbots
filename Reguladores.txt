@@ -1,0 +1,34 @@
+Cotización reguladores
+
+http://www.digikey.com.mx/product-detail/es/R-78B3.3-1.5/945-1051-ND/2256231
+Parecido a LM7812
+1.5A
+conmutado
+Estados unidos, no conseguí proveedor en México (?)
+precio por regulador (comprando 2) --- 500 MXN (56USD de envío 20USD los reguladores)
+
+------------------------------------------------------------
+
+Texas instruments
+
+http://www.ti.com/product/ua7812?CMP=AFC-conv_SF_SEP
+
+Lineal
+1.5A asegurados 2.2Amax peak
+Mismo empaque que LM7812
+GRATIS (hasta 3 unidades)
+
+------------------------------------------------------------
+
+Pololu
+
+Los únicos reguladores pololu que dan mas de 1A de salida son el del kauil o el D15V70F5S3
+pero solo sacan 5v o 3.3v
+(además son muy grandes)
+
+------------------------------------------------------------
+
+Robodacta
+
+solo venden el del kauil y uno que no soporta mas de 12v de entrada conmutados
+típicos reguladores lineales LM78xx
